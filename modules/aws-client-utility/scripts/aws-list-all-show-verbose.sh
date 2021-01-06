@@ -1,1 +1,1 @@
-aws-list-all show --verbose ../data/*
+aws-list-all show --verbose ../data/*.json

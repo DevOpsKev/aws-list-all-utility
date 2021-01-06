@@ -1,1 +1,1 @@
-aws-list-all show ../data/*
+aws-list-all show ../data/*.json
