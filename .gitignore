@@ -29,4 +29,4 @@ override.tf.json
 # example: *tfplan*
 
 # aws data files
-./modules/aws-client-utility/data/*.json
+modules/aws-client-utility/data/*.json
