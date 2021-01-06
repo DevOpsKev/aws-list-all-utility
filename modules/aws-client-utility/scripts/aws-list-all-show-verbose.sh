@@ -1,0 +1,1 @@
+aws-list-all show --verbose ../data/*

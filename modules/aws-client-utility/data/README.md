@@ -1,0 +1,1 @@
+Data is exported to this directory in JSON format but ignored  by Git.
