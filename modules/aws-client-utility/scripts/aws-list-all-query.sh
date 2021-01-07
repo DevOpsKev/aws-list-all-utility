@@ -33,3 +33,4 @@ for i in "${regions[@]}"
 do
 	aws-list-all query --region $i --directory ../data --verbose
 done
+
